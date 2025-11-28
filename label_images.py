@@ -10,7 +10,7 @@ IMAGE_DIR = "images"
 CITY_CSV = "city_gps.csv"
 OUTPUT_CSV = "labels.csv"
 
-OWM_API_KEY = "a4b085dbe827fae818de56bc35b52ed7"  
+OWM_API_KEY = "OpenWeatherMap Token"  
 
 DEFAULT_LAT = 23.0225
 DEFAULT_LON = 72.5714
